@@ -457,7 +457,7 @@ ApplicationWindow {
       //model: featureForm.model
       //selection: featureForm.selection
 
-      color: "yellow"
+      color: Theme.mainColor
       selectionColor: "#ff7777"
       width: 5
     }
