@@ -288,7 +288,7 @@ Rectangle {
     model: AttributeFormModel {
       featureModel: FeatureModel {
         currentLayer: featureForm.selection.focusedLayer
-        feature: featureForm.selection.focusedFeature
+        features: featureForm.selection.features
       }
     }
 
